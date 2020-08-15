@@ -101,7 +101,8 @@ As we have already converted the current time in the string before (actual time)
 Finally make the input boxes such as hourTime, minTime, and secTime which takes the entry of the time the user wants to set the alarm on in 24-hour format.
 Submit takes the command of the defined function actual_time and executes the clock as it acts as a set button to start the program.
 Clock.mainloop() is the basic and the last command was given to compile all the previous commands with their basic settings of color, font, width, axis, etc. and displays the window as soon as the program is run.
-Yay!! The alarm clock is ready for execution for your next work nap 😉. Save the source code with DataFlair-Alarm-Clock.py and run the file:
+
+Yay!! The alarm clock is ready for execution for your next work nap. Save the source code with DataFlair-Alarm-Clock.py and run the file:
 python3 DataFlair-Alarm-Clock.py
 
 Summary
